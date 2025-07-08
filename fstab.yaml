@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p14003-e30147.adobeaemcloud.com/bin/franklin.delivery/devjani-git/aem-edge-demo/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive.google.com/drive/folders/1KxXuL6NtfyNR6YPN1MHggTlxP039jAkZ
